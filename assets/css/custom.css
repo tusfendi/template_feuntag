@@ -1,0 +1,27 @@
+.merah {
+    background: #c62e2e;
+}
+
+#selamat-datang{
+    font-size: 14px;
+    margin: 10px;
+    margin-left: 80px;
+}
+
+#selamat-datang .caption{
+    margin-top:auto ;
+    margin-bottom:auto ;
+}
+
+.kiri {
+    margin-top:auto ;
+    margin-bottom:auto ;
+    margin-left: 15px;
+}
+
+.kanan {
+    margin-top:auto ;
+    margin-bottom:auto ;
+    margin-right: 15px;
+}
+
