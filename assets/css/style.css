@@ -732,9 +732,6 @@ section {
   padding: 40px;
 }
 
-.about-lists .konten{
-  padding-left: 40px;
-}
 
 .about-lists .row {
   overflow: hidden;
@@ -808,7 +805,7 @@ section {
 }
 
 .about-lists a{
-  color: #525252;
+  color: #fc3535;
 }
 
 .about-lists a:hover{
